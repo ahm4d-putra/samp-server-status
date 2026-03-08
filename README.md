@@ -1,5 +1,3 @@
-
-```markdown
 # 🎮 SA-MP Server Status Bot
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
@@ -20,6 +18,15 @@
 - 🎨 **Discord Embed UI** — Tampilan rapi dan informatif
 - 🔒 **Error Handling** — Pesan error jelas saat server offline
 
+---
+
+## 🚀 Quick Start
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/username/samp-server-status.git
+cd samp-server-status
 ---
 
 ## 🚀 Quick Start
@@ -177,3 +184,4 @@ Pull request welcome! Untuk major changes, please open issue dulu.
 
 > ⭐ Star repo ini kalau bermanfaat!
 ```
+
