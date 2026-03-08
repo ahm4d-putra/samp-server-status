@@ -6,7 +6,7 @@
 
 > Discord bot untuk mengecek status server **San Andreas Multiplayer (SA-MP)** secara real-time menggunakan slash commands.
 
-![Preview](https://i.imgur.com/placeholder.png)
+![Preview](https://i.imgur.com/c3QH7Jj.png)
 
 ---
 
@@ -184,4 +184,5 @@ Pull request welcome! Untuk major changes, please open issue dulu.
 
 > ⭐ Star repo ini kalau bermanfaat!
 ```
+
 
